@@ -2,6 +2,8 @@
 
 To view the paper for this project: [Empathy Framework Final Paper](<Empathy Framework Final Paper.pdf>)
 
+Presentation for this project: [Presentation](https://docs.google.com/presentation/d/1RKlW238Z6QUb4yQYxsQQwYYCs9uNkCvGNC555XKqnlc/edit?usp=sharing)
+
 Welcome to the Empathy Mental Health Evaluator and Generator repository! This repository contains code for both the evaluator and generator modules, along with associated scripts to facilitate their usage.
 
 ## Contents
