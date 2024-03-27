@@ -1,6 +1,6 @@
-# CS247-Empathy-Mental-Health
+# Empathetic Conversation Generation and Evaluation Framework for Mental Health Use
 
-[Final paper link](./Final \ Paper.pdf)
+To view the paper for this project: [Empathy Framework Final Paper](<Empathy Framework Final Paper.pdf>)
 
 Welcome to the Empathy Mental Health Evaluator and Generator repository! This repository contains code for both the evaluator and generator modules, along with associated scripts to facilitate their usage.
 
